@@ -23,5 +23,3 @@ A simple RESTful API for managing a TODO list, built with Java and Spring Boot. 
 This project demonstrates:
 - Best practices in RESTful API development.
 - Foundational security principles.
-
-Feel free to explore the project and contribute!

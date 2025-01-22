@@ -2,6 +2,11 @@
 
 A simple RESTful API for managing a TODO list, built with Java and Spring Boot. The application allows users to create and manage their tasks in a simple way. 
 
+<div style="display: inline_block">
+  <img align="center" alt="java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
+  <img align="center" alt="spring" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />      
+</div>
+
 ## Features
 
 1. **Endpoints for TODO Management**: 
